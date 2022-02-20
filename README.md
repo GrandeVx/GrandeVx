@@ -43,7 +43,7 @@
 [website]: google.com
 
 [twitter]: https://twitter.com/vitto_22d
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCqK1xTg7-89w5aEtcywkXpw
 [instagram]: https://instagram.com/vitto_22d
 [linkedin]: https://www.linkedin.com/in/vittorio-d%E2%80%99alfonso-4703a71a2/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
