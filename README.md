@@ -52,5 +52,6 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 ![GrandeVx's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrandeVx&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrandeVx&layout=compact)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrandeVx)
 
