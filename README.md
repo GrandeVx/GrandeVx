@@ -51,7 +51,7 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 <p align = "center">
-![GrandeVx's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrandeVx&show_icons=true&theme=radical)
+  <img src = "https://github-readme-stats.vercel.app/api?username=GrandeVx&show_icons=true&theme=bear" width = 400>
 </p>
 
 
