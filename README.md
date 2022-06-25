@@ -1,5 +1,7 @@
 ### Hi there, I'm Vittorio - aka GrandeVx 👋
 
+![GrandeVx's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrandeVx&show_icons=true&theme=radical)
+
 
 ## I'm a Student, Creative, Developer, and Teenager!!
 
@@ -52,6 +54,6 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrandeVx)
-![GrandeVx's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrandeVx&show_icons=true&theme=radical)
+
 
 
