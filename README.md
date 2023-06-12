@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to Create a Youtube Channel
-- 🥅 2022 Goals: Develope a Cool Things
+- 🥅 2023 Goals: Develope a Cool Things
 - ⚡ Fun fact: I love to read and listen music
 
 ### Connect with me:
