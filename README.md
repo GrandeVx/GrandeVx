@@ -1,6 +1,6 @@
 ### Hi there, I'm Vittorio - aka GrandeVx 👋
 
-## I'm a Student, Creative, Developer, and Teenager!!
+## I'm a Student, Creative, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to Create a Youtube Channel
