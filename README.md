@@ -52,7 +52,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [website]: google.com
 
-[twitter]: https://twitter.com/vitto_22d
+[twitter]: https://twitter.com/vittoIam
 [youtube]: https://www.youtube.com/channel/UCqK1xTg7-89w5aEtcywkXpw
 [instagram]: https://instagram.com/vitto_22d
 [linkedin]: https://www.linkedin.com/in/vittorio-d%E2%80%99alfonso-4703a71a2/
